@@ -43,6 +43,11 @@ Extremely useful website every nerd should know
 
 ---
 
+# ⚙️ Utilities & Tools
+
+- [Ezgif](https://ezgif.com/): Lots of free imaging editing tools
+
+- [TinyWow](https://tinywow.com/): Lots of different tools to help with PDF, Images, Writting, and Video
 
 ---
 
